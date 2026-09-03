@@ -62,7 +62,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                        href="/resume.pdf"
+                        href="/balavresume.pdf"
                         download="Bala_Subramanian_V_Resume.pdf"
                         className="secondary-button"
                     >
@@ -83,7 +83,7 @@ const Hero = () => {
             </div>
 
             <div className="hero-number">01</div>
-        </section>
+        </section >
     );
 };
 
